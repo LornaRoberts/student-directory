@@ -3,5 +3,5 @@ The student directory script allows you to keep track of students enrolled at Vi
 
 ## How to use ##
 `````shell
-ruby student-directory.rb
+ruby directory.rb
 ``````
